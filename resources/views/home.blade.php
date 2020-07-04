@@ -27,6 +27,7 @@
             <li>Mengunjungi Website ini</li>
             <li>Mendaftar di <a href="register">Form sign Up<a /></li>
             <li>Selesai!</li>
+            <li>Terima kasih!</li>
         </ol>
     </div>
 </body>
